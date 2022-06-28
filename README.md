@@ -19,7 +19,7 @@ TOKEN=
 X=
 ```
 - Next to the token, you will grab your bot's token that can be obtained from the [discord developers portal](https://discord.com/developers/applications)
-- Next to `X` you're going to grab an api key from [UltraX API](https://ultrax-yt.com) and put it there
+- Next to `X` you're going to grab an api key from [UltraX API](https://ultrax-yt.com) and put it there. It takes a while to receive the verification code and it might be in your spam category.
 - P.S. The website (UltraX) isn't designed for phone usage.
 
 ### Step 4

@@ -28,4 +28,4 @@ Now you can enjoy your bot by starting it, type `node .` in the terminal to run 
 ### Note:
 The bot will require a while to be able to work in vc, so maybe let it be online for 1 minute, then add it to the vc using `!callMyGF` and wait for 10 seconds or so. If you faced any issues you can always join our [discord server](https://ultrax-yt.com/discord)!
 
-##### Donation: _you can help my buy a new laptop by [donating to me](https://ultrax-yt.com/paypal), would be appreciated!_
+##### Donation: _you can help me buy a new laptop by [donating to me](https://ultrax-yt.com/paypal), would be appreciated!_

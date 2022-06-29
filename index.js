@@ -45,7 +45,7 @@ client.on("speech", async (message) => {
     a = await reply(message.author.id, message.content)
   
     // to see all supported languages head to "https://api.ultrax-yt.com/v1/details/supported-tts-languages" 
-    // and add at the end of the URL << &language='en' >> ofc change en with your prefered language.
+    // and add at the end of the URL << &language=en >> ofc change en with your prefered language.
     resource = createAudioResource(`https://api.ultrax-yt.com/v1/tts?key=${process.env.X}&query=${a}`)
 
     voiceConnection.subscribe(player)
